@@ -81,8 +81,8 @@ class RegistoOrden {
 
 
 let teclado = {
-    id: 1,
-    marca: 'dell',
+    id: 3,
+    marca: 'xyz',
     contador: 100,
     tipo: 'teclado'
 }
@@ -152,5 +152,5 @@ const registroOrden = new RegistoOrden();
 // -------------------------
 // Orden
 
-// registroOrden.registro(orden, 2);
-registroOrden.showData();
+registroOrden.registro(orden, 9);
+// registroOrden.showData();
