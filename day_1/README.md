@@ -1,7 +1,8 @@
 # Pasantia22.2 | Semana 2 | Día 1
 ## Promesas
 
-- [Enlace ejercicio](/../../../tree/main/promesas/promesas.js)
+- [Enlace ejercicio](/../../tree/main/day_1/promesas/promesas.js)
+
 
 ![img](./../assets/day_1/promesas/1.png)
 
@@ -14,7 +15,7 @@
 
 ## Programacion Orientada Objetos
 
-- [Enlace a ejercicio](/POO/)
+- [Enlace a ejercicio](/../../tree/main/day_1/POO/)
 
 ![img](./../assets/day_1/POO/1.png)
 
