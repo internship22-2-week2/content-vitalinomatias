@@ -1,7 +1,7 @@
 # Pasantia22.2 | Semana 2 | Día 1
 ## Promesas
 
-- [Enlace ejercicio](/promesas/promesas.js)
+- [Enlace ejercicio](/../../../tree/main/promesas/promesas.js)
 
 ![img](./../assets/day_1/promesas/1.png)
 
